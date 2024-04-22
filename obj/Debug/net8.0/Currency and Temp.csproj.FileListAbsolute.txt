@@ -1,0 +1,15 @@
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\bin\Debug\net8.0\Currency and Temp.exe
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\bin\Debug\net8.0\Currency and Temp.deps.json
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\bin\Debug\net8.0\Currency and Temp.runtimeconfig.json
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\bin\Debug\net8.0\Currency and Temp.dll
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\bin\Debug\net8.0\Currency and Temp.pdb
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.AssemblyInfoInputs.cache
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.AssemblyInfo.cs
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.sourcelink.json
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.dll
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\refint\Currency and Temp.dll
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.pdb
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\Currency and Temp.genruntimeconfig.cache
+C:\Users\celin\OneDrive\Desktop\Currency and Temperature converter\Currency and Temp\obj\Debug\net8.0\ref\Currency and Temp.dll
